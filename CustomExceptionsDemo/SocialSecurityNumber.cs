@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Nicholas Mitchell nmitchell11@cnm.edu
+//Custom Exceptions Demo
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
